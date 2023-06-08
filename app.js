@@ -123,6 +123,10 @@ const talkingHeadsAlbums = [
   album7
 ];
 
+
+const formats = album6.albumDetails.formats;
+
+
 // Exercise 8:  Using the talkingHeadsAlbums array, assign album5's labels property to a variable named labels
 
 
