@@ -144,6 +144,7 @@ album6.albumDetails.released = talkingHeadsAlbums[6].albumDetails.released;
 let albumIdx = 4;
 
 
+const albumDetails = talkingHeadsAlbums[albumIdx].albumDetails;
 
 
 /********** Don't look below here **********/
