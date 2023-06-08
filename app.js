@@ -37,6 +37,8 @@ const album3 = {
   }
 };
 
+const label = album1.albumDetails.label;
+
 // Exercise 3: Accessing the string 'LP' from album2's formats array, add it to the end of album3's formats array.
 
 
