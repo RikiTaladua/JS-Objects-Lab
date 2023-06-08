@@ -77,6 +77,10 @@ const album5 = {
   }
 };
 
+
+album4.albumDetails.label = 'Sire';
+
+
 // Exercise 6:  Update the value 'emi' within album5's labels array to 'EMI'
 
 
@@ -90,6 +94,10 @@ const album6 = {
     formats: ['CD', 'cassette', 'LP']
   }
 };
+
+
+album5.albumDetails.labels[1] = 'EMI';
+
 
 // Exercise 7:  Assign album6's formats array to a variable named formats
 
